@@ -1,0 +1,7 @@
+.DS_Store
+**/polyMesh/
+**/processor*/
+**/extendedFeatureEdgeMesh/
+**/0.*/
+**/*.zip
+**/*.eMesh
